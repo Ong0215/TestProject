@@ -53,6 +53,7 @@ public class Array2 {
 		System.out.println("The smallest index of max mark is " + indexOfmax);
 		System.out.println("Total size of even mark is " + even);
 		System.out.println("Total size of odd mark is " + odd);
+		System.out.println("That's all");
 
 	}
 
